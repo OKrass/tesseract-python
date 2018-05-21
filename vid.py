@@ -11,7 +11,7 @@ import cv2
 import os
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files (x86)\\Tesseract-OCR\\tesseract'
 # construct the argument parse and parse the arguments
-
+#fsdfsdfsfd
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
 	help="path to input image to be OCR'd")
